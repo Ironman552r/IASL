@@ -1,4 +1,4 @@
-# IASL
+# IASL - Image and Animation Styling Library
 
 ## Contents of  IASL 
   * index.html
@@ -12,7 +12,7 @@
 
 ### index.html
 
-index.html is a connection to canvas.js. This index.html  executes the file canvas.js which is where you can write your own code.
+index.html is a connection to canvas.js. This index.html  executes the file canvas.js 
 
 ### canvas.js
 
