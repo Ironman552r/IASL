@@ -3,7 +3,7 @@
 # Contents of  IASL 
   * index.html
   * canvas.js
-  * README.me
+  * README.md
 
 
 
