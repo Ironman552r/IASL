@@ -21,5 +21,11 @@ This file stores the complete IASL.js library. It is easy to read by humans, so 
 ### README.txt
 
 The README is the file you are currrnt file:)
+### example.html
+
+ this file showes the way to setup an html to link to the js file 
+### example.js
+
+ this file shows how to setup the js file where you can also see the basic example of IASL in action
 
 
