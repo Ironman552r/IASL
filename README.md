@@ -1,6 +1,6 @@
 # IASL - Image and Animation Styling Library
 
-## Contents of  IASL 
+## Contents of  IASL version 1.0
   * index.html
   * canvas.js
   * example.html
